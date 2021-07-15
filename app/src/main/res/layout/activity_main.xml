@@ -15,6 +15,7 @@
         android:text="Check whether the number is Triangular or square number?"
         android:textSize="20sp"
         android:gravity="center"
+        android:textColor="@color/black"
         android:layout_margin="15dp"/>
 
     <EditText
@@ -31,6 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:onClick="testNumber"
+        android:textStyle="bold"
         android:text="Test Number!"/>
 
 
